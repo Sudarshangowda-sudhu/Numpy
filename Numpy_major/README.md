@@ -69,6 +69,6 @@ This project demonstrates practical usage of NumPy for:
 **Sudarshan Gowda**  
 📍 Bengaluru, India  
 📧 [sudarshan004.gowda@gmail.com](mailto:sudarshan004.gowda@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sudarshan-gowda/) | [GitHub](https://github.com/sudarshan004-gowda)
+🔗 [LinkedIn](https://www.linkedin.com/in/sudarshan-gowda-73bbb525b/) | [GitHub](https://github.com/Sudarshangowda-sudhu)
 
 
